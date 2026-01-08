@@ -7,7 +7,7 @@ processing, and exploratory analysis techniques.
 - Collect structured lyric data
 - Clean and transform raw JSON data
 - Perform exploratory data analysis
-- Visualize trends in music lyrics
+- Analyze lyrics to present song meaning
 
 ## 🛠️ Tech Stack
 - Python
@@ -15,11 +15,6 @@ processing, and exploratory analysis techniques.
 - Jupyter Notebook
 - JSON / CSV
 - Matplotlib / Seaborn
-
-## 📁 Data
-- Source: [describe source]
-- Size: 200+ data points
-- Attributes: song, artist, year, lyric features
 
 ## 🚧 Status
 This project is currently **in progress**.
