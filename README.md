@@ -1,4 +1,4 @@
-# 🎧 LyricLens
+# 🎧 LyricLens — Song Meaning & Listening Context for Streaming Platforms
 
 **LyricLens** is a music-tech prototype that explores how song meaning can be surfaced directly within a streaming experience — without redistributing copyrighted lyrics.
 
